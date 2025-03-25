@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}   
+html, body {
+    background-color: #191625;
+}
+.App{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+h1{
+    font-family: 'monospace';
+    color: #afafaf;
+    font-weight: 700;
+    font-size: 5rem;
+    user-select: none;
+}
+.div-button{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}

@@ -1,0 +1,27 @@
+.div-counter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  font-size: 2rem;
+  font-weight: bold;
+  color: #afafaf;
+  font-family: 'Roboto';
+}
+h1{
+    font-family: 'Roboto';
+}
+span{
+    height: 300px;
+    min-width: 300px;
+    border: #afafaf 5px solid;
+    border-radius: 10px;
+    text-align: center;
+    align-content: center;
+    font-weight: 700;
+    font-size: 5rem;
+    padding: 20px;
+
+}

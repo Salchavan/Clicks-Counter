@@ -1,0 +1,23 @@
+.Button{
+    background-color: #6ecc71;
+    border-radius: 15px;
+    color: #022b07;
+    margin: 10px;
+    padding: 10px;
+    max-width: 200px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2rem; 
+    border: none;
+    outline: none;
+    transition: all 0.1s;
+    user-select: none;
+}
+.Button:hover{
+    background-color: #4f9e5f;
+    scale: 1.1;
+}
+
+.Button:active{
+    background-color: #8ed19c;
+    scale: 1;
+}
